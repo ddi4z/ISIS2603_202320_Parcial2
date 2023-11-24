@@ -1,0 +1,15 @@
+.show-card {
+    color:  #0d86ff ;
+    cursor: pointer;
+}
+
+td {
+    background-color: #f2f3f2;
+}
+
+.table {
+    margin: 30px 1rem;
+}
+.info {
+    margin: 30px 1rem;
+}
